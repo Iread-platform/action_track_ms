@@ -6,5 +6,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3"/>
     <PackageReference Include="Analytics" Version="3.8.0"/>
     <PackageReference Include="Google.Apis.Analytics.v3" Version="1.55.0.1679"/>
+    <PackageReference Include="GoogleAnalyticsTracker" Version="3.1.0"/>
   </ItemGroup>
 </Project>
